@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	email = sayaka.5mth@gmail.com
+[remote "origin"]
+	url = ssh://github.com/sayakatanaka/rails-girls.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
